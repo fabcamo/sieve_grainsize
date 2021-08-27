@@ -17,7 +17,7 @@ You will be asked to input:
 * Sand %
 * if organic or -not
 
-## Authors
+## Author(s)
 
 Contributors names and contact info
 
