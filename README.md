@@ -1,10 +1,16 @@
-# Grainsize laboratory test for soils
-This will solve the boring ASTM D2487 for you.
-I dont know how to code yet with graphs for it to find Cc and Cu for you, hence, some branches for the classification are not coded.
-...
-You will be asked to input:
-\nLiquid limit
-Plastic limit
-Gravel %
-Sand %
-Organic or not oganic
+# Project Title
+
+Classification of Soils for Engineering Purposes (Unified Soil Classification System)
+ASTM D2487
+
+## Description
+
+This is a huge if/else chain code covering most of the classification branches on the standard.
+
+
+## Authors
+
+Contributors names and contact info
+
+Fabian Campos 
+[@fabcamo](https://twitter.com/fabcamo)
