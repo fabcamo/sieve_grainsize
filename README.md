@@ -9,6 +9,15 @@ This is a huge if/else chain code covering most of the classification branches o
 
 You will be asked
 
+### Executing program
+
+You will be asked to input:
+
+* Liquid limit
+* Plastic limit
+* Gravel %
+* Sand %
+* if organic or -not
 
 ## Authors
 
