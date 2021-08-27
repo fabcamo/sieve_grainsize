@@ -1,7 +1,6 @@
-# Project Title
+# ASTM D2487
 
 Classification of Soils for Engineering Purposes (Unified Soil Classification System)
-ASTM D2487
 
 ## Description
 
