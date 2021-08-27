@@ -5,9 +5,7 @@ ASTM D2487
 
 ## Description
 
-This is a huge if/else chain code covering most of the classification branches on the standard.
-
-You will be asked
+This is a huge if/else chain code covering most of the classification branches on the standard. For coarse grain soils where you need to use Cu and Cc there is no code yet.
 
 ### Executing program
 
